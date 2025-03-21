@@ -1,2 +1,2 @@
 # ResNet
-Forward and init method 
+Forward and init method defined
